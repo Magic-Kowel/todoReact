@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Magic-Kowel/todoReact/static/css/main.e82485ce.css",
+    "main.js": "/Magic-Kowel/todoReact/static/js/main.bc1f18c3.js",
+    "index.html": "/Magic-Kowel/todoReact/index.html",
+    "main.e82485ce.css.map": "/Magic-Kowel/todoReact/static/css/main.e82485ce.css.map",
+    "main.bc1f18c3.js.map": "/Magic-Kowel/todoReact/static/js/main.bc1f18c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82485ce.css",
+    "static/js/main.bc1f18c3.js"
+  ]
+}
